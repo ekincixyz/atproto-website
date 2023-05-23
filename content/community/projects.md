@@ -31,6 +31,7 @@ Read our disclaimer [below](/community/projects#disclaimer).
 
 ## Tutorials and Guides
 
+- [Bluesky Community Hub](https://bskyhub.ferran.cc/) by [@ferran.cc](https://bsky.app/profile/ferran.cc)
 - [atproto docs in Japanese](https://github.com/encrypteduse/atproto-website-docs-jp) by [@encrypteduse](https://github.com/encrypteduse)
 - [atproto starter kit](https://github.com/aliceisjustplaying/atproto-starter-kit), TypeScript/Node template, by [@alice.bsky.sh](https://bsky.app/profile/did:plc:by3jhwdqgbtrcc7q4tkkv3cf)
 - [How to build a Bluesky bot using ATProto and OpenAI API](https://ashevat.medium.com/how-to-build-a-bluesky-bot-using-atproto-and-openai-api-77a26a154b) by [@amir.blue](https://bsky.app/profile/amir.blue)
